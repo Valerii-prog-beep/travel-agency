@@ -1,0 +1,11 @@
+export { TourDetails } from './TourDetails';
+export { TourIncluded } from './TourIncluded';
+export { TourItinerary } from './TourItinerary';
+export { TourWhatToBring } from './TourWhatToBring';
+export { TourBookingCard } from './TourBookingCard';
+export { TourGallery } from './TourGallery';
+export { SimilarTours } from './SimilarTours';
+export { TourDescription } from './TourDescription';
+export { TourHero } from './TourHero';
+export { TourNavigation } from './TourNavigation';
+export { TourNotFound } from './TourNotFound';
