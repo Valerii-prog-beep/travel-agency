@@ -1,3 +1,28 @@
+# 🌴 Travel Agency Website
+
+**Live Demo:** https://clever-cendol-167660.netlify.app  
+**GitHub:** https://github.com/Valerii-prog-beep/travel-agency
+
+Modern responsive travel agency website built with React and TypeScript.
+
+## 🚀 Features
+- Tour booking with filtering
+- Cost calculation  
+- Form validation
+- Fully responsive design
+- Smooth animations
+
+## 🛠 Tech Stack
+- **Frontend:** React, TypeScript, Tailwind CSS, Framer Motion
+- **Build Tool:** Vite
+- **Deployment:** Netlify
+
+## 📦 Installation
+```bash
+git clone https://github.com/Valerii-prog-beep/travel-agency.git
+cd travel-agency
+npm install
+npm run dev
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
